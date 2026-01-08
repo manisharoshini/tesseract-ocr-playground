@@ -57,6 +57,23 @@ https://github.com/tesseract-ocr/tesseract
 
 After installation, make sure Tesseract is added to your system PATH.
 
+### 🚀 Usage
 
+Run the OCR script using:
+```bash
+python ocr_with_pytesseract.py
+```
+
+**The script performs:**
+
+Text extraction
+
+Bounding box visualization
+
+OCR confidence and layout analysis
+
+Orientation and script detection
+
+File conversion to PDF, HOCR, and XML
 
 
