@@ -44,3 +44,19 @@ This project uses Tesseract OCR (via the `pytesseract` Python wrapper) to extrac
 ```bash
 git clone https://github.com/<your-username>/ocr-pytesseract-opencv.git
 cd ocr-pytesseract-opencv
+```
+
+### 2.Install dependencies
+```bash
+pip install -r requirements.txt
+```
+### 3. Install Tesseract OCR
+
+Download and install Tesseract OCR from the official repository:
+https://github.com/tesseract-ocr/tesseract
+
+After installation, make sure Tesseract is added to your system PATH.
+
+
+
+
