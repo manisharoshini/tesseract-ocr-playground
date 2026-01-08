@@ -72,4 +72,10 @@ python ocr_with_pytesseract.py
 4. Orientation and script detection
 5. File conversion to PDF, HOCR, and XML
 
+##📦 Requirements
 
+**Python 3.x
+Tesseract OCR
+pytesseract
+OpenCV
+Pillow**
